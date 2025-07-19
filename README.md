@@ -1,1 +1,1 @@
-# CloudAdvisor-cli
+# CloudAdvisor-cli (Cops-cli)
